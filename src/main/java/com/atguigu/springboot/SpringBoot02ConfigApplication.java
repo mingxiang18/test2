@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBoot02ConfigApplication {
+	private String name;
 
 	public static void main(String[] args) {
 
